@@ -1,6 +1,6 @@
 ### Hi👽  I'm Aman Rawat
 
-- 🔭 I’m currently studying in ITM(Institute of Technology and Management).
+- 🔭 I’m currently pursuing BCA from ITM(Institute of Technology and Management).
 - 🌱 I’m currently learning python.
 - 👯 I’m looking to work on my communication and coding skills.
 - 💬 Ask me related to programming.

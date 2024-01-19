@@ -4,7 +4,7 @@ Hi 👋 My name is Aman Rawat
 Python Developer | Machine Learning Enthusiast
 ----------------------------------------------
 
-Currently I'm in third year of my college. I have studied many coding languages out of which I liked the most is 'Python'. So all of my codes here are based on Python and its libraries. Also I am gaining interest in Machine Learning so I am also working on that.
+Currently I'm in third year of my college. I have studied many coding languages out of which I liked the most is 'Python'. So all of my codes here are based on Python and around its libraries. Also I am gaining interest in Machine Learning so I am also working on that.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [amannraawat@gmail.com](mailto:amannraawat@gmail.com)
